@@ -63,4 +63,16 @@ body{
   .container {
    flex-direction: column;
   }
+  .card {
+    width: 300px;
+    height: 500px;
+  }
+
+  .card p {
+    font-size: 15px;
+  }
+
+  .card h2 {
+    font-size: 20px;
+  }
 }
